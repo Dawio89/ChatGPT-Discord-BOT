@@ -1,9 +1,7 @@
 import requests
-import inspect
 import openai
 import discord
 from discord import app_commands, Intents, Client, Interaction
-from discord.ext import commands
 openai.api_key = "" #https://beta.openai.com/account/api-keys
 token = "" #https://discord.com/developers/applications
 

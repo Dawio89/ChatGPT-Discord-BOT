@@ -1,5 +1,5 @@
-                         # ChatGPT-Discord-BOT
-           OpenAI ChatGPT Discord BOT with slash commands.
+# ChatGPT-Discord-BOT
+OpenAI ChatGPT Discord BOT with slash commands.
 ```
 Based on https://github.com/Oszku/GPTBot but... better, cuz with slash commands
                      .d88888b  dP     dP .d88888b  
